@@ -3,10 +3,10 @@
     "yarn.lock": true,
     "tsconfig.json": true,
     "tsconfig.build.json": true,
-    "README.md": true,
     ".prettierrc": true,
     "node_modules": true,
     ".eslintrc.js": true,
-    ".vscode": true
+    ".vscode": true,
+    "README.md": true
   }
 }
